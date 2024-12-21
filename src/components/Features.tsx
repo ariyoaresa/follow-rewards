@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Shield, Zap, DollarSign, Users } from 'lucide-react';
 
 const features = [

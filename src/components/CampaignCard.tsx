@@ -1,4 +1,3 @@
-import React from 'react';
 import { Instagram, Twitter, Facebook, Music2 } from 'lucide-react';
 import type { Campaign, Platform } from '../types';
 
