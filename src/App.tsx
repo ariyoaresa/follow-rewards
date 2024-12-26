@@ -12,7 +12,7 @@ const SAMPLE_CAMPAIGNS: Campaign[] = [
   {
     id: '1',
     platform: 'instagram',
-    username: 'traveler.lens',
+    username: 'ariyoaresa',
     rewardAmount: 5,
     followersNeeded: 1000,
     currentFollowers: 750,
@@ -21,7 +21,7 @@ const SAMPLE_CAMPAIGNS: Campaign[] = [
   {
     id: '2',
     platform: 'tiktok',
-    username: 'dancestars',
+    username: 'just_ariyoaresa',
     rewardAmount: 10,
     followersNeeded: 2000,
     currentFollowers: 1200,
@@ -30,7 +30,7 @@ const SAMPLE_CAMPAIGNS: Campaign[] = [
   {
     id: '3',
     platform: 'x',
-    username: 'cryptoinsights',
+    username: 'ariyoaresa',
     rewardAmount: 8,
     followersNeeded: 1500,
     currentFollowers: 900,
